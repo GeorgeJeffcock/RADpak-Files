@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:root xmlns="https://www.w3schools.com/xml/" xmlns:ns="http://www.jitterbit.com/XsdFromWsdl">
+	<ns:transaction>
+		<ns:body>
+			<CelsiusToFahrenheit>
+				<Celsius>31</Celsius>
+			</CelsiusToFahrenheit>
+		</ns:body>
+	</ns:transaction>
+</ns:root>

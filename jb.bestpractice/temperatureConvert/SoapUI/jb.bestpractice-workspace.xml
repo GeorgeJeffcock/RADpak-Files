@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="jb.bestpractice" soapui-version="5.4.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="tempconvert">C:/Users/george.jeffcock/Desktop/jb.bestpractice/SoapUI/temperatureConvert-soapui-project.xml</con:project>
+  <con:project name="JitterbitHarmonyAPI_External">C:/Users/george.jeffcock/Desktop/jb.bestpractice/SoapUI/REST-APIs-for-Jitterbit-Analytics-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>

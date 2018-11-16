@@ -1,0 +1,30 @@
+{
+	"@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users",
+	"@odata.nextLink": "https://graph.microsoft.com/v1.0/users?$skiptoken=X%27445370740200010000002B3A566963746F724053686172646F6F6C313937396F75746C6F6F6B2E6F6E6D6963726F736F66742E636F6D29557365725F61353263663835372D646530302D346433642D383733662D306235626331373161623562B900000000000000000000%27",
+	"value": [{
+			"businessPhones": ["businessPhones-value"],
+			"displayName": "displayName-value",
+			"givenName": "givenName-value",
+			"jobTitle": "jobTitle-value",
+			"mail": "mail-value",
+			"mobilePhone": "mobilePhone-value",
+			"officeLocation": "officeLocation-value",
+			"preferredLanguage": "preferredLanguage-value",
+			"surname": "surname-value",
+			"userPrincipalName": "userPrincipalName-value",
+			"id": "id-value"
+		}, {
+			"businessPhones": ["businessPhones-value"],
+			"displayName": "displayName-value",
+			"givenName": "givenName-value",
+			"jobTitle": "jobTitle-value",
+			"mail": "mail-value",
+			"mobilePhone": "mobilePhone-value",
+			"officeLocation": "officeLocation-value",
+			"preferredLanguage": "preferredLanguage-value",
+			"surname": "surname-value",
+			"userPrincipalName": "userPrincipalName-value",
+			"id": "id-value"
+		}
+	]
+}

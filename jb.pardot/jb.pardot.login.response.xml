@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsp stat="fail" version="1.0">
+	<err code="15">Login failed</err>
+	<api_key>3da536501778d10a193611cc6177c315</api_key>
+</rsp>

@@ -1,0 +1,10 @@
+[{
+		"surrogateId": 123,
+		"governementId": "7304108611",
+		"avoidAtAllCost": true
+	}, {
+		"surrogateId": 321,
+		"governementId": "8304108611",
+		"avoidAtAllCost": false
+	}
+]

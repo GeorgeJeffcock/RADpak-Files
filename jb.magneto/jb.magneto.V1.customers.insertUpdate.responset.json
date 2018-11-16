@@ -1,0 +1,29 @@
+{
+	"id": 55319,
+	"group_id": 1,
+	"updated_at": "2018-11-02 08:45:41",
+	"email": "george.jeffcock@jitterbit.com",
+	"firstname": "george",
+	"lastname": "jeffcock",
+	"store_id": 1,
+	"website_id": 1,
+	"addresses": [{
+		"id": 12493,
+		"customer_id": 55319,
+		"region": {
+			"region_code": "CO",
+			"region": "Colorado",
+			"region_id": 13
+		},
+		"region_id": 13,
+		"country_id": "US",
+		"street": ["1233 Main St."],
+		"company": "Jack Enterprises",
+		"telephone": "303-394-3948",
+		"postcode": "80202",
+		"city": "Denver",
+		"firstname": "Jack",
+		"lastname": "Black"
+	}],
+	"disable_auto_group_change": 0
+}

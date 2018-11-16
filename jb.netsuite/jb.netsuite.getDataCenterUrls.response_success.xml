@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<jb_ws:root xmlns:jb_ws="http://www.jitterbit.com/XsdFromWsdl">
+	<jb_ws:transaction>
+		<jb_ws:response xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<jb_ws:header>
+				<platformMsgs:documentInfo xmlns:platformMsgs="urn:messages_2018_1.platform.webservices.netsuite.com">
+					<platformMsgs:nsId>WEBSERVICES__082420181804721669746913905_b1255fd83215c372ce4</platformMsgs:nsId>
+				</platformMsgs:documentInfo>
+			</jb_ws:header>
+			<jb_ws:body>
+				<getDataCenterUrlsResponse xmlns="urn:messages_2018_1.platform.webservices.netsuite.com">
+					<platformCore:getDataCenterUrlsResult xmlns:platformCore="urn:core_2018_1.platform.webservices.netsuite.com">
+						<platformCore:status isSuccess="true"/>
+						<platformCore:dataCenterUrls>
+							<platformCore:restDomain>https://4081679-sb1.restlets.api.netsuite.com</platformCore:restDomain>
+							<platformCore:webservicesDomain>https://4081679-sb1.suitetalk.api.netsuite.com</platformCore:webservicesDomain>
+							<platformCore:systemDomain>https://system.eu1.netsuite.com</platformCore:systemDomain>
+						</platformCore:dataCenterUrls>
+					</platformCore:getDataCenterUrlsResult>
+				</getDataCenterUrlsResponse>
+			</jb_ws:body>
+		</jb_ws:response>
+	</jb_ws:transaction>
+</jb_ws:root>

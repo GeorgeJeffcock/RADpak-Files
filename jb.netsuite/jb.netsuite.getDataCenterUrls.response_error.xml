@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<jb_ws:root xmlns:jb_ws="http://www.jitterbit.com/XsdFromWsdl">
+	<jb_ws:transaction>
+		<jb_ws:response xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<jb_ws:header>
+				<platformMsgs:documentInfo xmlns:platformMsgs="urn:messages_2018_1.platform.webservices.netsuite.com">
+					<platformMsgs:nsId>WEBSERVICES__0824201818048639322043073748_2413a04b694f13b1f3</platformMsgs:nsId>
+				</platformMsgs:documentInfo>
+			</jb_ws:header>
+			<jb_ws:body>
+				<getDataCenterUrlsResponse xmlns="urn:messages_2018_1.platform.webservices.netsuite.com">
+					<platformCore:getDataCenterUrlsResult xmlns:platformCore="urn:core_2018_1.platform.webservices.netsuite.com">
+						<platformCore:status isSuccess="false">
+							<platformCore:statusDetail type="ERROR">
+								<platformCore:code>DATA_REQD</platformCore:code>
+								<platformCore:message>You need to provide a proper value for the required field: account.</platformCore:message>
+							</platformCore:statusDetail>
+						</platformCore:status>
+					</platformCore:getDataCenterUrlsResult>
+				</getDataCenterUrlsResponse>
+			</jb_ws:body>
+		</jb_ws:response>
+	</jb_ws:transaction>
+</jb_ws:root> 

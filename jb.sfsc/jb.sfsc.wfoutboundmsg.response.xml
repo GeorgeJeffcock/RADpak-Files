@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://soap.sforce.com/2005/09/outbound">
+	<Body>
+		<ns:notificationsResponse>
+			<ns:Ack>True</ns:Ack>
+		</ns:notificationsResponse>
+	</Body>
+</Envelope>

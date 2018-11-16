@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<jb_ws:root xmlns:jb_ws="http://www.jitterbit.com/XsdFromWsdl">
+	<jb_ws:transaction>
+		<jb_ws:response xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<jb_ws:body>
+				<CelsiusToFahrenheitResponse xmlns="https://www.w3schools.com/xml/">
+					<CelsiusToFahrenheitResult>Error</CelsiusToFahrenheitResult>
+				</CelsiusToFahrenheitResponse>
+			</jb_ws:body>
+		</jb_ws:response>
+	</jb_ws:transaction>
+</jb_ws:root>

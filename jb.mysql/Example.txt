@@ -1,0 +1,2 @@
+idTable1,HasField,fkey
+1,coo,1

@@ -1,0 +1,1521 @@
+<?xml version="1.0"?>
+<response>
+	<items>
+		<item>
+			<id>55319</id>
+			<group_id>1</group_id>
+			<default_billing>12493</default_billing>
+			<created_at>2018-09-19 19:54:10</created_at>
+			<updated_at>2018-10-03 19:41:43</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>2071-09-05</dob>
+			<email>scott.halpenny@jitterbit.com</email>
+			<firstname>Jack</firstname>
+			<lastname>Black</lastname>
+			<gender>1</gender>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12493</id>
+					<customer_id>55319</customer_id>
+					<region>
+						<region_code>CO</region_code>
+						<region>Colorado</region>
+						<region_id>13</region_id>
+					</region>
+					<region_id>13</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>1233 Main St.</item>
+					</street>
+					<company>Jack Enterprises</company>
+					<telephone>303-394-3948</telephone>
+					<postcode>80202</postcode>
+					<city>Denver</city>
+					<firstname>Jack</firstname>
+					<lastname>Black</lastname>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55320</id>
+			<group_id>1</group_id>
+			<default_billing>12494</default_billing>
+			<default_shipping>12494</default_shipping>
+			<created_at>2018-09-19 20:01:40</created_at>
+			<updated_at>2018-10-04 20:18:45</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1955-03-08</dob>
+			<email>tommie.daughert@pridewrath.usa.cc</email>
+			<firstname>Laverna</firstname>
+			<lastname>Durgan</lastname>
+			<gender>0</gender>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12494</id>
+					<customer_id>55320</customer_id>
+					<region>
+						<region_code>OK</region_code>
+						<region>Oklahoma</region>
+						<region_id>48</region_id>
+					</region>
+					<region_id>48</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>6434 Devin Garden Suite 579</item>
+					</street>
+					<telephone>434-333-5981</telephone>
+					<postcode>99305-0121</postcode>
+					<city>South Jaronfort</city>
+					<firstname>Laverna</firstname>
+					<lastname>Durgan</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55321</id>
+			<group_id>1</group_id>
+			<default_billing>12495</default_billing>
+			<default_shipping>12495</default_shipping>
+			<created_at>2018-09-19 20:01:42</created_at>
+			<updated_at>2018-09-19 20:01:42</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1991-12-29</dob>
+			<email>damon97@vyrski4nwr5.cf</email>
+			<firstname>Stehr</firstname>
+			<lastname>DDS</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12495</id>
+					<customer_id>55321</customer_id>
+					<region>
+						<region_code>NJ</region_code>
+						<region>New Jersey</region>
+						<region_id>41</region_id>
+					</region>
+					<region_id>41</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>620 Glennie Port</item>
+					</street>
+					<telephone>800.916.8462</telephone>
+					<postcode>44121-6679</postcode>
+					<city>Port Andres</city>
+					<firstname>Stehr</firstname>
+					<lastname>DDS</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55322</id>
+			<group_id>1</group_id>
+			<default_billing>12496</default_billing>
+			<default_shipping>12496</default_shipping>
+			<created_at>2018-09-19 20:01:43</created_at>
+			<updated_at>2018-09-19 20:01:43</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1999-05-06</dob>
+			<email>rruecker@jv7ykxi7t5383ntrhf.gq</email>
+			<firstname>Stamm</firstname>
+			<lastname>PhD</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12496</id>
+					<customer_id>55322</customer_id>
+					<region>
+						<region_code>KY</region_code>
+						<region>Kentucky</region>
+						<region_id>27</region_id>
+					</region>
+					<region_id>27</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>1086 Chanel River</item>
+					</street>
+					<telephone>587.377.8204</telephone>
+					<postcode>50470-0889</postcode>
+					<city>Port Emilioside</city>
+					<firstname>Stamm</firstname>
+					<lastname>PhD</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55323</id>
+			<group_id>1</group_id>
+			<default_billing>12497</default_billing>
+			<default_shipping>12497</default_shipping>
+			<created_at>2018-09-19 20:01:45</created_at>
+			<updated_at>2018-10-03 19:40:16</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1986-12-25</dob>
+			<email>vandervort.leon@hbxrlg4sae.ga</email>
+			<firstname>Dietrich</firstname>
+			<lastname>DDS</lastname>
+			<gender>0</gender>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12497</id>
+					<customer_id>55323</customer_id>
+					<region>
+						<region_code>FM</region_code>
+						<region>Federated States Of Micronesia</region>
+						<region_id>17</region_id>
+					</region>
+					<region_id>17</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>642 Jerde Summit</item>
+					</street>
+					<telephone>1-551-087-6628x0745</telephone>
+					<postcode>98961</postcode>
+					<city>Shirleyview</city>
+					<firstname>Dietrich</firstname>
+					<lastname>DDS</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55324</id>
+			<group_id>1</group_id>
+			<default_billing>0</default_billing>
+			<default_shipping>0</default_shipping>
+			<created_at>2018-10-04 20:09:54</created_at>
+			<updated_at>2018-10-04 20:13:19</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1975-10-25</dob>
+			<email>Reacher@cia.com</email>
+			<firstname>Jack</firstname>
+			<lastname>Reacher</lastname>
+			<gender>1</gender>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses/>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55325</id>
+			<group_id>1</group_id>
+			<default_billing>12498</default_billing>
+			<default_shipping>12498</default_shipping>
+			<created_at>2018-10-04 20:27:05</created_at>
+			<updated_at>2018-10-04 20:27:07</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1968-10-31</dob>
+			<email>Jim@carreyenterprises.com</email>
+			<firstname>Jim</firstname>
+			<lastname>Carrey</lastname>
+			<gender>1</gender>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12498</id>
+					<customer_id>55325</customer_id>
+					<region>
+						<region_code>NY</region_code>
+						<region>New York</region>
+						<region_id>43</region_id>
+					</region>
+					<region_id>43</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>1816 Carrey Ave.</item>
+					</street>
+					<telephone>7182231234</telephone>
+					<postcode>01872</postcode>
+					<city>New York</city>
+					<firstname>Jim</firstname>
+					<lastname>Carrey</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55326</id>
+			<group_id>1</group_id>
+			<default_billing>12499</default_billing>
+			<default_shipping>12499</default_shipping>
+			<created_at>2018-10-05 14:14:20</created_at>
+			<updated_at>2018-10-05 14:14:21</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1965-10-31</dob>
+			<email>Eddie@murphy.com</email>
+			<firstname>Eddie</firstname>
+			<lastname>Murphy</lastname>
+			<gender>1</gender>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12499</id>
+					<customer_id>55326</customer_id>
+					<region>
+						<region_code>NY</region_code>
+						<region>New York</region>
+						<region_id>43</region_id>
+					</region>
+					<region_id>43</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>932 Main St</item>
+					</street>
+					<company>EM Enterprises</company>
+					<telephone>7182819287</telephone>
+					<postcode>08271</postcode>
+					<city>New York</city>
+					<firstname>Eddie</firstname>
+					<lastname>Murphy</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55327</id>
+			<group_id>1</group_id>
+			<created_at>2018-10-05 16:16:29</created_at>
+			<updated_at>2018-10-05 16:16:29</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1971-10-31</dob>
+			<email>Don@gmail.com</email>
+			<firstname>Don</firstname>
+			<lastname>Johnson</lastname>
+			<gender>1</gender>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12500</id>
+					<customer_id>55327</customer_id>
+					<region>
+						<region_code>FL</region_code>
+						<region>Florida</region>
+						<region_id>18</region_id>
+					</region>
+					<region_id>18</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>6547 Main St</item>
+					</street>
+					<telephone>947384736</telephone>
+					<postcode>93822</postcode>
+					<city>Miami</city>
+					<firstname>Don</firstname>
+					<lastname>Johnson</lastname>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55328</id>
+			<group_id>1</group_id>
+			<default_billing>12501</default_billing>
+			<default_shipping>12501</default_shipping>
+			<created_at>2018-10-11 19:50:10</created_at>
+			<updated_at>2018-10-11 19:50:11</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1975-07-27</dob>
+			<email>nelle38@elenaohansen109.flu.cc</email>
+			<firstname>Littel</firstname>
+			<lastname>Sr.</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12501</id>
+					<customer_id>55328</customer_id>
+					<region>
+						<region_code>PW</region_code>
+						<region>Palau</region>
+						<region_id>50</region_id>
+					</region>
+					<region_id>50</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>750 Makenna Extension Suite 305</item>
+					</street>
+					<telephone>(046)208-0738x8813</telephone>
+					<postcode>36350</postcode>
+					<city>East Colbyfort</city>
+					<firstname>Littel</firstname>
+					<lastname>Sr.</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55329</id>
+			<group_id>1</group_id>
+			<default_billing>12502</default_billing>
+			<default_shipping>12502</default_shipping>
+			<created_at>2018-10-11 19:50:13</created_at>
+			<updated_at>2018-10-11 19:50:13</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1966-10-09</dob>
+			<email>myrna.trantow@downloadeguide.mywire.org</email>
+			<firstname>Lueilwitz</firstname>
+			<lastname>II</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12502</id>
+					<customer_id>55329</customer_id>
+					<region>
+						<region_code>NH</region_code>
+						<region>New Hampshire</region>
+						<region_id>40</region_id>
+					</region>
+					<region_id>40</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>0191 Colleen Street Suite 593</item>
+					</street>
+					<telephone>1-205-075-7492x0660</telephone>
+					<postcode>08109</postcode>
+					<city>Josephport</city>
+					<firstname>Lueilwitz</firstname>
+					<lastname>II</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55330</id>
+			<group_id>1</group_id>
+			<default_billing>12503</default_billing>
+			<default_shipping>12503</default_shipping>
+			<created_at>2018-10-11 19:50:14</created_at>
+			<updated_at>2018-10-11 19:50:14</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1958-09-10</dob>
+			<email>crooks.loyal@k3p6v6n.igg.biz</email>
+			<firstname>Dulce</firstname>
+			<lastname>Leannon</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12503</id>
+					<customer_id>55330</customer_id>
+					<region>
+						<region_code>GA</region_code>
+						<region>Georgia</region>
+						<region_id>19</region_id>
+					</region>
+					<region_id>19</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>529 Modesta Mall</item>
+					</street>
+					<telephone>897.122.8867x08437</telephone>
+					<postcode>39088</postcode>
+					<city>Oberbrunnerland</city>
+					<firstname>Dulce</firstname>
+					<lastname>Leannon</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55331</id>
+			<group_id>1</group_id>
+			<default_billing>12504</default_billing>
+			<default_shipping>12504</default_shipping>
+			<created_at>2018-10-11 19:50:15</created_at>
+			<updated_at>2018-10-11 19:50:15</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>2000-04-09</dob>
+			<email>roscoe85@didiiiid.flu.cc</email>
+			<firstname>Beulah</firstname>
+			<lastname>Blick</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12504</id>
+					<customer_id>55331</customer_id>
+					<region>
+						<region_code>GU</region_code>
+						<region>Guam</region>
+						<region_id>20</region_id>
+					</region>
+					<region_id>20</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>910 Ezequiel Shoals Suite 224</item>
+					</street>
+					<telephone>1-915-873-6402x08449</telephone>
+					<postcode>49979</postcode>
+					<city>Ricoview</city>
+					<firstname>Beulah</firstname>
+					<lastname>Blick</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55332</id>
+			<group_id>1</group_id>
+			<default_billing>12505</default_billing>
+			<default_shipping>12505</default_shipping>
+			<created_at>2018-10-11 19:50:17</created_at>
+			<updated_at>2018-10-11 19:50:17</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1989-06-01</dob>
+			<email>russel.bettye@mila006.igg.biz</email>
+			<firstname>Mabel</firstname>
+			<lastname>Pfannerstill</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12505</id>
+					<customer_id>55332</customer_id>
+					<region>
+						<region_code>NE</region_code>
+						<region>Nebraska</region>
+						<region_id>38</region_id>
+					</region>
+					<region_id>38</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>6710 Bergstrom Throughway Apt. 292</item>
+					</street>
+					<telephone>401.665.5953x103</telephone>
+					<postcode>93924-8615</postcode>
+					<city>West Dylan</city>
+					<firstname>Mabel</firstname>
+					<lastname>Pfannerstill</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55333</id>
+			<group_id>1</group_id>
+			<default_billing>12506</default_billing>
+			<default_shipping>12506</default_shipping>
+			<created_at>2018-10-11 19:50:18</created_at>
+			<updated_at>2018-10-11 19:50:18</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1981-08-21</dob>
+			<email>sgoyette@dinarabu4.igg.biz</email>
+			<firstname>Jerald</firstname>
+			<lastname>Larkin</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12506</id>
+					<customer_id>55333</customer_id>
+					<region>
+						<region_code>NV</region_code>
+						<region>Nevada</region>
+						<region_id>39</region_id>
+					</region>
+					<region_id>39</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>1139 Shaina Light</item>
+					</street>
+					<telephone>720.647.9829x321</telephone>
+					<postcode>67408-8699</postcode>
+					<city>West Aracely</city>
+					<firstname>Jerald</firstname>
+					<lastname>Larkin</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55334</id>
+			<group_id>1</group_id>
+			<default_billing>12507</default_billing>
+			<default_shipping>12507</default_shipping>
+			<created_at>2018-10-11 19:50:20</created_at>
+			<updated_at>2018-10-11 19:50:20</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1985-07-29</dob>
+			<email>alphonso87@nfovhqwrto1hwktbup.ml</email>
+			<firstname>Vern</firstname>
+			<lastname>Fahey</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12507</id>
+					<customer_id>55334</customer_id>
+					<region>
+						<region_code>OK</region_code>
+						<region>Oklahoma</region>
+						<region_id>48</region_id>
+					</region>
+					<region_id>48</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>598 Deckow Courts Suite 201</item>
+					</street>
+					<telephone>1-419-782-4944x48756</telephone>
+					<postcode>67486</postcode>
+					<city>Gusikowskibury</city>
+					<firstname>Vern</firstname>
+					<lastname>Fahey</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55335</id>
+			<group_id>1</group_id>
+			<default_billing>12508</default_billing>
+			<default_shipping>12508</default_shipping>
+			<created_at>2018-10-11 19:50:23</created_at>
+			<updated_at>2018-10-11 19:50:23</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1982-03-20</dob>
+			<email>gleichner.kelvi@mx2fxkd2.igg.biz</email>
+			<firstname>Block</firstname>
+			<lastname>MD</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12508</id>
+					<customer_id>55335</customer_id>
+					<region>
+						<region_code>CT</region_code>
+						<region>Connecticut</region>
+						<region_id>14</region_id>
+					</region>
+					<region_id>14</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>969 Alf Mountain Apt. 932</item>
+					</street>
+					<telephone>476.026.6523</telephone>
+					<postcode>77450</postcode>
+					<city>Port Emiliefort</city>
+					<firstname>Block</firstname>
+					<lastname>MD</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55336</id>
+			<group_id>1</group_id>
+			<default_billing>12509</default_billing>
+			<default_shipping>12509</default_shipping>
+			<created_at>2018-10-11 19:50:26</created_at>
+			<updated_at>2018-10-11 19:50:26</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1967-01-22</dob>
+			<email>turcotte.evans@atildeahl911.flu.cc</email>
+			<firstname>Elnora</firstname>
+			<lastname>Reynolds</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12509</id>
+					<customer_id>55336</customer_id>
+					<region>
+						<region_code>LA</region_code>
+						<region>Louisiana</region>
+						<region_id>28</region_id>
+					</region>
+					<region_id>28</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>062 Jaunita Mall Apt. 167</item>
+					</street>
+					<telephone>+52(7)8057878516</telephone>
+					<postcode>51269</postcode>
+					<city>Beckershire</city>
+					<firstname>Elnora</firstname>
+					<lastname>Reynolds</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55337</id>
+			<group_id>1</group_id>
+			<default_billing>12510</default_billing>
+			<default_shipping>12510</default_shipping>
+			<created_at>2018-10-11 19:50:27</created_at>
+			<updated_at>2018-10-11 19:50:27</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1969-04-09</dob>
+			<email>everett.will@cxs60s.igg.biz</email>
+			<firstname>Hassan</firstname>
+			<lastname>Crist</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12510</id>
+					<customer_id>55337</customer_id>
+					<region>
+						<region_code>MP</region_code>
+						<region>Northern Mariana Islands</region>
+						<region_id>46</region_id>
+					</region>
+					<region_id>46</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>402 Von Mountains</item>
+					</street>
+					<telephone>(267)868-8390</telephone>
+					<postcode>56350-2996</postcode>
+					<city>North Kayleighton</city>
+					<firstname>Hassan</firstname>
+					<lastname>Crist</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55338</id>
+			<group_id>1</group_id>
+			<default_billing>12511</default_billing>
+			<default_shipping>12511</default_shipping>
+			<created_at>2018-10-11 19:52:36</created_at>
+			<updated_at>2018-10-11 19:52:36</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1956-03-10</dob>
+			<email>bwindler@ahauahauh.igg.biz</email>
+			<firstname>Landen</firstname>
+			<lastname>Mayer</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12511</id>
+					<customer_id>55338</customer_id>
+					<region>
+						<region_code>FL</region_code>
+						<region>Florida</region>
+						<region_id>18</region_id>
+					</region>
+					<region_id>18</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>25298 Jakubowski Key Suite 645</item>
+					</street>
+					<telephone>238.117.8418x196</telephone>
+					<postcode>36685-4296</postcode>
+					<city>New Jackburgh</city>
+					<firstname>Landen</firstname>
+					<lastname>Mayer</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55339</id>
+			<group_id>1</group_id>
+			<default_billing>12512</default_billing>
+			<default_shipping>12512</default_shipping>
+			<created_at>2018-10-11 19:52:38</created_at>
+			<updated_at>2018-10-11 19:52:38</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1985-02-12</dob>
+			<email>chad25@ak1s3txf.igg.biz</email>
+			<firstname>Madonna</firstname>
+			<lastname>Rowe</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12512</id>
+					<customer_id>55339</customer_id>
+					<region>
+						<region_code>HI</region_code>
+						<region>Hawaii</region>
+						<region_id>21</region_id>
+					</region>
+					<region_id>21</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>7688 Hauck Lights</item>
+					</street>
+					<telephone>1-542-234-0471</telephone>
+					<postcode>84589-3503</postcode>
+					<city>East Emma</city>
+					<firstname>Madonna</firstname>
+					<lastname>Rowe</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55340</id>
+			<group_id>1</group_id>
+			<default_billing>12513</default_billing>
+			<default_shipping>12513</default_shipping>
+			<created_at>2018-10-11 19:52:39</created_at>
+			<updated_at>2018-10-11 19:52:39</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1971-08-09</dob>
+			<email>nconnelly@irilundberg710.flu.cc</email>
+			<firstname>Mayra</firstname>
+			<lastname>Streich</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12513</id>
+					<customer_id>55340</customer_id>
+					<region>
+						<region_code>CT</region_code>
+						<region>Connecticut</region>
+						<region_id>14</region_id>
+					</region>
+					<region_id>14</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>84909 Dagmar Lock Apt. 506</item>
+					</street>
+					<telephone>+44(8)4357974747</telephone>
+					<postcode>98143</postcode>
+					<city>East Esteban</city>
+					<firstname>Mayra</firstname>
+					<lastname>Streich</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55341</id>
+			<group_id>1</group_id>
+			<default_billing>12514</default_billing>
+			<default_shipping>12514</default_shipping>
+			<created_at>2018-10-11 19:52:40</created_at>
+			<updated_at>2018-10-11 19:52:41</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1965-05-02</dob>
+			<email>emmanuelle72@k3ukkc7.igg.biz</email>
+			<firstname>Ewell</firstname>
+			<lastname>Boyer</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12514</id>
+					<customer_id>55341</customer_id>
+					<region>
+						<region_code>OR</region_code>
+						<region>Oregon</region>
+						<region_id>49</region_id>
+					</region>
+					<region_id>49</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>7527 Mayert Drive</item>
+					</street>
+					<telephone>06580676906</telephone>
+					<postcode>99851</postcode>
+					<city>Bogisichland</city>
+					<firstname>Ewell</firstname>
+					<lastname>Boyer</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55342</id>
+			<group_id>1</group_id>
+			<default_billing>12515</default_billing>
+			<default_shipping>12515</default_shipping>
+			<created_at>2018-10-11 19:52:42</created_at>
+			<updated_at>2018-10-11 19:52:42</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1987-02-09</dob>
+			<email>will.kreiger@illaarsenbk.flu.cc</email>
+			<firstname>Eula</firstname>
+			<lastname>Jerde</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12515</id>
+					<customer_id>55342</customer_id>
+					<region>
+						<region_code>IN</region_code>
+						<region>Indiana</region>
+						<region_id>24</region_id>
+					</region>
+					<region_id>24</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>74217 Frida Light Apt. 319</item>
+					</street>
+					<telephone>05165061095</telephone>
+					<postcode>98241</postcode>
+					<city>East Tanya</city>
+					<firstname>Eula</firstname>
+					<lastname>Jerde</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55343</id>
+			<group_id>1</group_id>
+			<default_billing>12516</default_billing>
+			<default_shipping>12516</default_shipping>
+			<created_at>2018-10-11 19:52:43</created_at>
+			<updated_at>2018-10-11 19:52:43</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1961-09-18</dob>
+			<email>alessandro.mann@nhvkhr.storeyee.com</email>
+			<firstname>Gillian</firstname>
+			<lastname>Eichmann</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12516</id>
+					<customer_id>55343</customer_id>
+					<region>
+						<region_code>LA</region_code>
+						<region>Louisiana</region>
+						<region_id>28</region_id>
+					</region>
+					<region_id>28</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>67578 Alysson Street</item>
+					</street>
+					<telephone>+12(7)3686442989</telephone>
+					<postcode>62450</postcode>
+					<city>Raynorhaven</city>
+					<firstname>Gillian</firstname>
+					<lastname>Eichmann</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55344</id>
+			<group_id>1</group_id>
+			<default_billing>12517</default_billing>
+			<default_shipping>12517</default_shipping>
+			<created_at>2018-10-11 19:52:45</created_at>
+			<updated_at>2018-10-11 19:52:45</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1981-12-01</dob>
+			<email>hackett.chloe@100024428117075.igg.biz</email>
+			<firstname>Jaylin</firstname>
+			<lastname>Dach</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12517</id>
+					<customer_id>55344</customer_id>
+					<region>
+						<region_code>NH</region_code>
+						<region>New Hampshire</region>
+						<region_id>40</region_id>
+					</region>
+					<region_id>40</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>0946 Schaefer Villages</item>
+					</street>
+					<telephone>1-463-846-3638x308</telephone>
+					<postcode>85710</postcode>
+					<city>West Margarettaland</city>
+					<firstname>Jaylin</firstname>
+					<lastname>Dach</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55345</id>
+			<group_id>1</group_id>
+			<default_billing>12518</default_billing>
+			<default_shipping>12518</default_shipping>
+			<created_at>2018-10-11 19:52:46</created_at>
+			<updated_at>2018-10-11 19:52:46</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1987-04-13</dob>
+			<email>christiansen.ma@ehvgfwayspsfwukntpi.ml</email>
+			<firstname>Milford</firstname>
+			<lastname>Wintheiser</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12518</id>
+					<customer_id>55345</customer_id>
+					<region>
+						<region_code>AE</region_code>
+						<region>Armed Forces Africa</region>
+						<region_id>6</region_id>
+					</region>
+					<region_id>6</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>61554 Hane Road</item>
+					</street>
+					<telephone>+42(6)7094936730</telephone>
+					<postcode>95349-1001</postcode>
+					<city>Stehrburgh</city>
+					<firstname>Milford</firstname>
+					<lastname>Wintheiser</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55346</id>
+			<group_id>1</group_id>
+			<default_billing>12519</default_billing>
+			<default_shipping>12519</default_shipping>
+			<created_at>2018-10-11 19:52:47</created_at>
+			<updated_at>2018-10-11 19:52:47</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1990-06-23</dob>
+			<email>padberg.aaron@athleen.flu.cc</email>
+			<firstname>Dickinson</firstname>
+			<lastname>DVM</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12519</id>
+					<customer_id>55346</customer_id>
+					<region>
+						<region_code>MO</region_code>
+						<region>Missouri</region>
+						<region_id>36</region_id>
+					</region>
+					<region_id>36</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>5387 Jessica Avenue</item>
+					</street>
+					<telephone>(021)473-6721x116</telephone>
+					<postcode>90248</postcode>
+					<city>North Lloyd</city>
+					<firstname>Dickinson</firstname>
+					<lastname>DVM</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55347</id>
+			<group_id>1</group_id>
+			<default_billing>12520</default_billing>
+			<default_shipping>12520</default_shipping>
+			<created_at>2018-10-11 19:52:49</created_at>
+			<updated_at>2018-10-11 19:52:49</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1974-10-18</dob>
+			<email>btorphy@damanik.ga</email>
+			<firstname>Lucy</firstname>
+			<lastname>Effertz</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12520</id>
+					<customer_id>55347</customer_id>
+					<region>
+						<region_code>CA</region_code>
+						<region>California</region>
+						<region_id>12</region_id>
+					</region>
+					<region_id>12</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>85558 Earline Ports</item>
+					</street>
+					<telephone>568.189.3787x06268</telephone>
+					<postcode>79474-6715</postcode>
+					<city>Thurmanport</city>
+					<firstname>Lucy</firstname>
+					<lastname>Effertz</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55348</id>
+			<group_id>1</group_id>
+			<default_billing>12521</default_billing>
+			<default_shipping>12521</default_shipping>
+			<created_at>2018-10-11 19:54:26</created_at>
+			<updated_at>2018-10-11 19:54:26</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1986-09-25</dob>
+			<email>laverne.rohan@fake.flu.cc</email>
+			<firstname>Benjamin</firstname>
+			<lastname>Terry</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12521</id>
+					<customer_id>55348</customer_id>
+					<region>
+						<region_code>AZ</region_code>
+						<region>Arizona</region>
+						<region_id>4</region_id>
+					</region>
+					<region_id>4</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>723 Laurie Well Apt. 675</item>
+					</street>
+					<telephone>662-304-0451</telephone>
+					<postcode>17213</postcode>
+					<city>Port Emmatown</city>
+					<firstname>Benjamin</firstname>
+					<lastname>Terry</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55349</id>
+			<group_id>1</group_id>
+			<default_billing>12522</default_billing>
+			<default_shipping>12522</default_shipping>
+			<created_at>2018-10-11 19:54:28</created_at>
+			<updated_at>2018-10-11 19:54:28</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1999-01-25</dob>
+			<email>lindsey12@cochatz.ga</email>
+			<firstname>Batz</firstname>
+			<lastname>DVM</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12522</id>
+					<customer_id>55349</customer_id>
+					<region>
+						<region_code>NJ</region_code>
+						<region>New Jersey</region>
+						<region_id>41</region_id>
+					</region>
+					<region_id>41</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>5112 Fausto Trafficway Apt. 502</item>
+					</street>
+					<telephone>1-475-112-3201x24778</telephone>
+					<postcode>49951</postcode>
+					<city>East Dedrick</city>
+					<firstname>Batz</firstname>
+					<lastname>DVM</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55350</id>
+			<group_id>1</group_id>
+			<default_billing>12523</default_billing>
+			<default_shipping>12523</default_shipping>
+			<created_at>2018-10-11 19:54:31</created_at>
+			<updated_at>2018-10-11 19:54:31</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1966-08-05</dob>
+			<email>wbosco@unelsen101.flu.cc</email>
+			<firstname>Casimer</firstname>
+			<lastname>Littel</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12523</id>
+					<customer_id>55350</customer_id>
+					<region>
+						<region_code>NH</region_code>
+						<region>New Hampshire</region>
+						<region_id>40</region_id>
+					</region>
+					<region_id>40</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>164 Hickle Brooks</item>
+					</street>
+					<telephone>357-406-4371x44870</telephone>
+					<postcode>07196</postcode>
+					<city>Runolfsdottirport</city>
+					<firstname>Casimer</firstname>
+					<lastname>Littel</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55351</id>
+			<group_id>1</group_id>
+			<default_billing>12524</default_billing>
+			<default_shipping>12524</default_shipping>
+			<created_at>2018-10-11 19:54:32</created_at>
+			<updated_at>2018-10-11 19:54:32</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1991-03-09</dob>
+			<email>lreichert@vmlfwgjgdw2mqlpc.tk</email>
+			<firstname>Cummerata</firstname>
+			<lastname>DVM</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12524</id>
+					<customer_id>55351</customer_id>
+					<region>
+						<region_code>FL</region_code>
+						<region>Florida</region>
+						<region_id>18</region_id>
+					</region>
+					<region_id>18</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>0594 Lenore Ville Apt. 395</item>
+					</street>
+					<telephone>1-153-212-2063x3614</telephone>
+					<postcode>03890-7567</postcode>
+					<city>Crooksview</city>
+					<firstname>Cummerata</firstname>
+					<lastname>DVM</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55352</id>
+			<group_id>1</group_id>
+			<default_billing>12525</default_billing>
+			<default_shipping>12525</default_shipping>
+			<created_at>2018-10-11 19:54:33</created_at>
+			<updated_at>2018-10-11 19:54:33</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1956-12-16</dob>
+			<email>rvonrueden@tu6oiu4mbcj.tk</email>
+			<firstname>Wendy</firstname>
+			<lastname>Walker</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12525</id>
+					<customer_id>55352</customer_id>
+					<region>
+						<region_code>AR</region_code>
+						<region>Arkansas</region>
+						<region_id>5</region_id>
+					</region>
+					<region_id>5</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>905 Kreiger Harbor</item>
+					</street>
+					<telephone>+38(2)8035825139</telephone>
+					<postcode>78300</postcode>
+					<city>Port Barrybury</city>
+					<firstname>Wendy</firstname>
+					<lastname>Walker</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55353</id>
+			<group_id>1</group_id>
+			<default_billing>12526</default_billing>
+			<default_shipping>12526</default_shipping>
+			<created_at>2018-10-11 19:54:35</created_at>
+			<updated_at>2018-10-11 19:54:35</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1957-11-07</dob>
+			<email>sigmund80@fvurtzuz9s.gq</email>
+			<firstname>Mike</firstname>
+			<lastname>Wuckert</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12526</id>
+					<customer_id>55353</customer_id>
+					<region>
+						<region_code>NV</region_code>
+						<region>Nevada</region>
+						<region_id>39</region_id>
+					</region>
+					<region_id>39</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>21175 Jaiden Cliff</item>
+					</street>
+					<telephone>189.179.3651x6941</telephone>
+					<postcode>40778-6321</postcode>
+					<city>New Nakialand</city>
+					<firstname>Mike</firstname>
+					<lastname>Wuckert</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55354</id>
+			<group_id>1</group_id>
+			<default_billing>12527</default_billing>
+			<default_shipping>12527</default_shipping>
+			<created_at>2018-10-11 19:54:36</created_at>
+			<updated_at>2018-10-11 19:54:36</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>2000-09-24</dob>
+			<email>anahi.rohan@mx8kvqq2.igg.biz</email>
+			<firstname>Vergie</firstname>
+			<lastname>Bogisich</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12527</id>
+					<customer_id>55354</customer_id>
+					<region>
+						<region_code>DE</region_code>
+						<region>Delaware</region>
+						<region_id>15</region_id>
+					</region>
+					<region_id>15</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>4575 Marie Path</item>
+					</street>
+					<telephone>883.278.9676x28234</telephone>
+					<postcode>63547-3325</postcode>
+					<city>Jarenborough</city>
+					<firstname>Vergie</firstname>
+					<lastname>Bogisich</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55355</id>
+			<group_id>1</group_id>
+			<default_billing>12528</default_billing>
+			<default_shipping>12528</default_shipping>
+			<created_at>2018-10-11 19:54:37</created_at>
+			<updated_at>2018-10-11 19:54:37</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1962-12-26</dob>
+			<email>hmarks@13sdfgsdh.igg.biz</email>
+			<firstname>Jacey</firstname>
+			<lastname>Haley</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12528</id>
+					<customer_id>55355</customer_id>
+					<region>
+						<region_code>NJ</region_code>
+						<region>New Jersey</region>
+						<region_id>41</region_id>
+					</region>
+					<region_id>41</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>589 Hane Mountain Suite 868</item>
+					</street>
+					<telephone>514.387.2368x2687</telephone>
+					<postcode>79589-0227</postcode>
+					<city>Schimmelfurt</city>
+					<firstname>Jacey</firstname>
+					<lastname>Haley</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55356</id>
+			<group_id>1</group_id>
+			<default_billing>12529</default_billing>
+			<default_shipping>12529</default_shipping>
+			<created_at>2018-10-11 19:54:39</created_at>
+			<updated_at>2018-10-11 19:54:39</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1978-01-25</dob>
+			<email>sigrid.wuckert@puh4iigs4w.ga</email>
+			<firstname>Sidney</firstname>
+			<lastname>Koch</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12529</id>
+					<customer_id>55356</customer_id>
+					<region>
+						<region_code>KY</region_code>
+						<region>Kentucky</region>
+						<region_id>27</region_id>
+					</region>
+					<region_id>27</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>434 Magnolia Stravenue Apt. 560</item>
+					</street>
+					<telephone>146.366.3642x968</telephone>
+					<postcode>61172-1066</postcode>
+					<city>Ewellshire</city>
+					<firstname>Sidney</firstname>
+					<lastname>Koch</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+		<item>
+			<id>55357</id>
+			<group_id>1</group_id>
+			<default_billing>12530</default_billing>
+			<default_shipping>12530</default_shipping>
+			<created_at>2018-10-11 19:54:40</created_at>
+			<updated_at>2018-10-11 19:54:40</updated_at>
+			<created_in>Default Store View</created_in>
+			<dob>1991-08-01</dob>
+			<email>mckenzie.meagan@garingsin.ga</email>
+			<firstname>Luz</firstname>
+			<lastname>Gibson</lastname>
+			<store_id>1</store_id>
+			<website_id>1</website_id>
+			<addresses>
+				<item>
+					<id>12530</id>
+					<customer_id>55357</customer_id>
+					<region>
+						<region_code>AE</region_code>
+						<region>Armed Forces Africa</region>
+						<region_id>6</region_id>
+					</region>
+					<region_id>6</region_id>
+					<country_id>US</country_id>
+					<street>
+						<item>533 Franz Estate Suite 603</item>
+					</street>
+					<telephone>(138)942-0494</telephone>
+					<postcode>76174</postcode>
+					<city>Priceberg</city>
+					<firstname>Luz</firstname>
+					<lastname>Gibson</lastname>
+					<default_shipping>true</default_shipping>
+					<default_billing>true</default_billing>
+				</item>
+			</addresses>
+			<disable_auto_group_change>0</disable_auto_group_change>
+		</item>
+	</items>
+	<search_criteria>
+		<filter_groups>
+			<item>
+				<filters>
+					<item>
+						<field>updated_at</field>
+						<value/>
+						<condition_type>gteq</condition_type>
+					</item>
+				</filters>
+			</item>
+		</filter_groups>
+	</search_criteria>
+	<total_count>39</total_count>
+</response>
